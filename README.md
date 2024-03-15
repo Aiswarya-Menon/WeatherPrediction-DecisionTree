@@ -33,7 +33,7 @@ python weather_prediction.py
 ```
 
 ##Screenshot of Working
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot(226).png)
 
 
 
